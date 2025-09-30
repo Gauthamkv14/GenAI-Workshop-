@@ -45,7 +45,6 @@ It combines NLP models with clean visualizations to give **insight into how peop
    ```bash
    git clone https://github.com/<your-username>/twitter-sentiment-analysis.git
    cd twitter-sentiment-analysis
-   
 
 2. Open the notebook in Google Colab (recommended):
 - Upload twitter_sentiment_analysis_mvp.ipynb to your Google Drive and run step by step.
