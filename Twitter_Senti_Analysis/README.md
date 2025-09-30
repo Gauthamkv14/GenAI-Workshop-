@@ -32,7 +32,7 @@ It combines NLP models with clean visualizations to give **insight into how peop
 ## 📂 Project Structure
 ```
  📁 twitter-sentiment-emotion
- ├── twitter_sentiment_analysis.ipynb # Main notebook (Google Colab ready)
+ ├── twitter_sentiment_analysis_mvp.ipynb # Main notebook (Google Colab ready)
  ├── sampled_30k.csv 
  ├── sentiment_emotions_result.csv
  ├── README.md
@@ -48,7 +48,7 @@ It combines NLP models with clean visualizations to give **insight into how peop
    
 
 2. Open the notebook in Google Colab (recommended):
-- Upload twitter_sentiment_emotion_mvp_full.ipynb to your Google Drive and run step by step.
+- Upload twitter_sentiment_analysis_mvp.ipynb to your Google Drive and run step by step.
 
 3.Data Input Options:
 
