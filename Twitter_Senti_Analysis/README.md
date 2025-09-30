@@ -30,11 +30,13 @@ It combines NLP models with clean visualizations to give **insight into how peop
 ---
 
 ## 📂 Project Structure
+```
  📁 twitter-sentiment-emotion
  ├── twitter_sentiment_analysis.ipynb # Main notebook (Google Colab ready)
  ├── sampled_30k.csv 
  ├── sentiment_emotions_result.csv
- ├── README.md 
+ ├── README.md
+```
 
  Here **"sampled_30k.csv"** is the subset of 30k tweets(random values picked) from the "Sentiment140 dataset" and is given as input csv and **"sentiment_emotions_result.csv"** is the obtained output csv
 
