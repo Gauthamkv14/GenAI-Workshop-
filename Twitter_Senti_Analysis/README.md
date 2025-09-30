@@ -1,7 +1,7 @@
 # 🐦 Twitter Sentiment & Emotion Analysis (MVP)
 
 This project analyzes **Twitter text data** to detect both **sentiment** (positive / neutral / negative) and **emotions** (27 fine-grained categories).  
-It combines state-of-the-art NLP models with clean visualizations to give **insight into how people feel online**.
+It combines NLP models with clean visualizations to give **insight into how people feel online**.
 
 ---
 
@@ -33,8 +33,10 @@ It combines state-of-the-art NLP models with clean visualizations to give **insi
  📁 twitter-sentiment-emotion
  ├── twitter_sentiment_analysis.ipynb # Main notebook (Google Colab ready)
  ├── sampled_30k.csv 
- ├──training.1600000.processed.noemoticon.csv
+ ├── sentiment_emotions_result.csv
  ├── README.md 
+
+ Here **"sampled_30k.csv"** is the subset of 30k tweets(random values picked) from the "Sentiment140 dataset" and is given as input csv and **"sentiment_emotions_result.csv"** is the obtained output csv
 
 ## 🔧 How to Run
 1. Clone the repo:
@@ -49,7 +51,7 @@ It combines state-of-the-art NLP models with clean visualizations to give **insi
 
 - Upload your own CSV of tweets (text column required).
 - Or use the built-in demo dataset inside the notebook.
- -Or use a sampled subset of Sentiment140.
+- Or use a sampled subset of Sentiment140.
 
 🙌 Acknowledgements
 
