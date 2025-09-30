@@ -30,11 +30,11 @@ It combines state-of-the-art NLP models with clean visualizations to give **insi
 ---
 
 ## 📂 Project Structure
-📁 twitter-sentiment-emotion
-├── twitter_sentiment_analysis.ipynb # Main notebook (Google Colab ready)
-├── sampled_30k.csv 
-├──training.1600000.processed.noemoticon.csv
-├── README.md 
+ 📁 twitter-sentiment-emotion
+ ├── twitter_sentiment_analysis.ipynb # Main notebook (Google Colab ready)
+ ├── sampled_30k.csv 
+ ├──training.1600000.processed.noemoticon.csv
+ ├── README.md 
 
 ## 🔧 How to Run
 1. Clone the repo:
@@ -47,12 +47,12 @@ It combines state-of-the-art NLP models with clean visualizations to give **insi
 
 3.Data Input Options:
 
--Upload your own CSV of tweets (text column required).
--Or use the built-in demo dataset inside the notebook.
--Or use a sampled subset of Sentiment140.
+- Upload your own CSV of tweets (text column required).
+- Or use the built-in demo dataset inside the notebook.
+ -Or use a sampled subset of Sentiment140.
 
 🙌 Acknowledgements
 
--Sentiment140 Dataset
--GoEmotions
--Hugging Face Transformers team
+- Sentiment140 Dataset
+- GoEmotions
+- Hugging Face Transformers team
